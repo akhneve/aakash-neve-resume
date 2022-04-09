@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "http://akhneve.github.io/aakash-neve-resume/static/css/main.5c85ab18.css",
-    "main.js": "http://akhneve.github.io/aakash-neve-resume/static/js/main.d8fa88b0.js",
-    "static/js/787.b24dfd78.chunk.js": "http://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js",
-    "static/media/notification.svg?s3g3t9": "http://akhneve.github.io/aakash-neve-resume/static/media/notification.5d0158671dd860c714c4.svg",
-    "static/media/notification.eot": "http://akhneve.github.io/aakash-neve-resume/static/media/notification.3657084dc0419605a91c.eot",
-    "static/media/notification.woff?s3g3t9": "http://akhneve.github.io/aakash-neve-resume/static/media/notification.c392cd33d9d9de730f9d.woff",
-    "static/media/notification.ttf?s3g3t9": "http://akhneve.github.io/aakash-neve-resume/static/media/notification.c5d9251ea82e42f75381.ttf",
-    "index.html": "http://akhneve.github.io/aakash-neve-resume/index.html",
-    "main.5c85ab18.css.map": "http://akhneve.github.io/aakash-neve-resume/static/css/main.5c85ab18.css.map",
-    "main.d8fa88b0.js.map": "http://akhneve.github.io/aakash-neve-resume/static/js/main.d8fa88b0.js.map",
-    "787.b24dfd78.chunk.js.map": "http://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js.map"
+    "main.css": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css",
+    "main.js": "https://akhneve.github.io/aakash-neve-resume/static/js/main.c6aefd49.js",
+    "static/js/787.b24dfd78.chunk.js": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js",
+    "static/media/notification.svg?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "https://akhneve.github.io/aakash-neve-resume/index.html",
+    "main.60b80a0e.css.map": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css.map",
+    "main.c6aefd49.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/main.c6aefd49.js.map",
+    "787.b24dfd78.chunk.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c85ab18.css",
-    "static/js/main.d8fa88b0.js"
+    "static/css/main.60b80a0e.css",
+    "static/js/main.c6aefd49.js"
   ]
 }
