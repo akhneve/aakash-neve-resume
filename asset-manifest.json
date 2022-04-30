@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css",
-    "main.js": "https://akhneve.github.io/aakash-neve-resume/static/js/main.b8dd4c69.js",
+    "main.js": "https://akhneve.github.io/aakash-neve-resume/static/js/main.af854a50.js",
     "static/js/787.b24dfd78.chunk.js": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js",
     "static/media/notification.svg?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.5d0158671dd860c714c4.svg",
     "index.html": "https://akhneve.github.io/aakash-neve-resume/index.html",
@@ -9,11 +9,11 @@
     "static/media/notification.woff?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c392cd33d9d9de730f9d.woff",
     "static/media/notification.ttf?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c5d9251ea82e42f75381.ttf",
     "main.60b80a0e.css.map": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css.map",
-    "main.b8dd4c69.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/main.b8dd4c69.js.map",
+    "main.af854a50.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/main.af854a50.js.map",
     "787.b24dfd78.chunk.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60b80a0e.css",
-    "static/js/main.b8dd4c69.js"
+    "static/js/main.af854a50.js"
   ]
 }
