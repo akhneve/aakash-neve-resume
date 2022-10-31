@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css",
-    "main.js": "https://akhneve.github.io/aakash-neve-resume/static/js/main.811b8d1c.js",
-    "static/js/787.b24dfd78.chunk.js": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js",
-    "static/media/notification.svg?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.5d0158671dd860c714c4.svg",
-    "index.html": "https://akhneve.github.io/aakash-neve-resume/index.html",
-    "static/media/notification.eot": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.3657084dc0419605a91c.eot",
-    "static/media/notification.woff?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c392cd33d9d9de730f9d.woff",
-    "static/media/notification.ttf?s3g3t9": "https://akhneve.github.io/aakash-neve-resume/static/media/notification.c5d9251ea82e42f75381.ttf",
-    "main.60b80a0e.css.map": "https://akhneve.github.io/aakash-neve-resume/static/css/main.60b80a0e.css.map",
-    "main.811b8d1c.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/main.811b8d1c.js.map",
-    "787.b24dfd78.chunk.js.map": "https://akhneve.github.io/aakash-neve-resume/static/js/787.b24dfd78.chunk.js.map"
+    "main.css": "http://www.aakashneve.com/static/css/main.ec2eac04.css",
+    "main.js": "http://www.aakashneve.com/static/js/main.b61989bf.js",
+    "static/js/787.b24dfd78.chunk.js": "http://www.aakashneve.com/static/js/787.b24dfd78.chunk.js",
+    "static/media/notification.svg?s3g3t9": "http://www.aakashneve.com/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "http://www.aakashneve.com/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "http://www.aakashneve.com/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "index.html": "http://www.aakashneve.com/index.html",
+    "static/media/notification.ttf?s3g3t9": "http://www.aakashneve.com/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "main.ec2eac04.css.map": "http://www.aakashneve.com/static/css/main.ec2eac04.css.map",
+    "main.b61989bf.js.map": "http://www.aakashneve.com/static/js/main.b61989bf.js.map",
+    "787.b24dfd78.chunk.js.map": "http://www.aakashneve.com/static/js/787.b24dfd78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60b80a0e.css",
-    "static/js/main.811b8d1c.js"
+    "static/css/main.ec2eac04.css",
+    "static/js/main.b61989bf.js"
   ]
 }
