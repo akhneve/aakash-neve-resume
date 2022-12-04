@@ -3,10 +3,10 @@
     "",
     "\\.github",
     "\\public",
+    "\\public\\css",
     "\\public\\images",
     "\\public\\js",
-    "\\src",
-    "\\src\\Components"
+    "\\src"
   ],
   "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
