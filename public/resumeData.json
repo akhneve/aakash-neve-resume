@@ -4,7 +4,7 @@
     "occupation": "Business Analyst",
     "image": "profilepic.jpg",
     "qrcode": "QR_code.png",
-    "description": [ "I like to analyse data.", "I love meeting new people.", "I create unique business solutions." ],
+    "description": [ "I like to analyse data", "I love meeting new people", "I create unique business solutions" ],
     "avatar": "AN_avatar.png",
     "bio": "I am a Business Analytics graduate student at University of Washington with three years of experience in management consulting and a demonstrated history of providing data-driven business solutions to clients across various domains and geographies. I strive to provide high-quality solutions while creating a culture of excellence, motivation, and a strong value system. I love exploring, learning new skills, and looking at opinions from diverse perspectives. Feel free to connect and reach me out!",
     "contactmessage": "Please feel free to fill the below form and I will get in touch with you shortly :)",
@@ -17,7 +17,7 @@
       "zip": "98105"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1TAf-NLj_Bd94RC-jr6tS87WTCOkjvXRi/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1Pyw3apLiegjvzEY_5WfC97JabvKvHyOG/view?usp=sharing",
     "social": [
 
       {
@@ -42,6 +42,10 @@
           {
             "id": "point2",
             "point": "Working part-time as a Program Coordinator with the Center for International Relations & Cultural Leadership Exchange at University of Washington to organize and run end-to-end operations of several large-scale cultural exchange and welcome programs for international undergraduate and graduate students of the university"
+          },
+          {
+            "id": "point3",
+            "point": "Working with Novo-Nordisk in collaboration with Electrical and Computer Engineering Department at University of Washington to make an end-to-end product for data collection and detection of Alzheimer's disease in early stage using patient gate data and track its progression"
           }
         ]
       },
@@ -78,19 +82,23 @@
         "description": [
           {
             "id": "point1",
-            "point": "Designed and implemented Incentive compensation plans for both launch and mature products across multiple therapeutic areas and for several multinational biopharmaceutical clients."
+            "point": "Designed and conducted the biggest bench-marking survey in the US pharmaceutical space for 79 companies and shared the insights on pay benchmarks to senior leadership"
           },
           {
             "id": "point2",
-            "point": "Took the initiative of automating the existing quota setting process from the manual setup to improve the operational efficiency and time by more than 80% using PySpark and SQL."
+            "point": "Strategized and developed a framework that helped the Incentive Compensation leaders to effectively manage the end-to-end sales contests across six business units"
           },
           {
             "id": "point3",
-            "point": "Created an end-to-end contest design tool for the client to effectively manage the entire contest and its budget and consecutively streamline the entire process across all the business units using VBA resulting in reducing design time from one month to ten days."
+            "point": "Automated the marketing segmentation of health-care practitioners across geographies by leveraging machine learning techniques such as K-nearest neighbors with ~90% accuracy"
           },
           {
             "id": "point4",
-            "point": "Worked on Machine Learning (ML) based marketing segmentation of Health Care Practitioners (HCPs) across geographies and products of a Fortune 500 client, which involved text mining, content tagging and several Ad-hoc analyses. Also, used collaborative filtering to predict the marketing channel and content preference of the HCPs based on data driven from historical emails, events and calls data."
+            "point": "Enhanced the compensation model for 2k+ pharmaceutical sales representatives by creating Excel models and Monte Carlo simulations, saving the budget of more than $0.5 million for every $100 million"
+          },
+          {
+            "id": "point5",
+            "point": "Led the training and on-boarding of associates on live projects and facilitated certification programs for 150+ participants across the globe"
           }
 
         ]
@@ -102,15 +110,11 @@
         "description": [
           {
             "id": "point1",
-            "point": "Worked with world’s largest retailer brand to identify the impact of competitors on sales for each department and estimate the dollar value of this sales impact."
+            "point": "Estimated $275 million worth of combined sales impact of competitors on the world’s largest retailer"
           },
           {
             "id": "point2",
-            "point": "Analyzed the demographic data, store area information, location information and competitor data to identify the parameters that influence sales. Then further refined the parameters using Boruta feature selection and removing the multicollinearity among the parameters, created a Machine Learning (ML) model on R to predict the dollar value impact on the departmental store."
-          },
-          {
-            "id": "point3",
-            "point": "Created a dynamic dashboard based on the drill-down approach using Tableau, hence enabling the clients to track the impact and strategize accordingly."
+            "point": "Built a linear regression-based market share driver model on R and a dashboard using Tableau to identify the threat index of a competitor's presence on sales and assist leadership in strategizing counter plans"
           }
         ]
       }
@@ -118,15 +122,15 @@
     "skills": [
       {
         "name": "Python",
-        "level": "60%"
+        "level": "75%"
       },
       {
         "name": "R",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Tableau",
-        "level": "50%"
+        "level": "80%"
       },
       {
         "name": "SQL",
@@ -134,7 +138,7 @@
       },
       {
         "name": "MS Excel",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "VBA",
