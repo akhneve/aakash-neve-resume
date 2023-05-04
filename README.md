@@ -1,7 +1,7 @@
 # React JS Resume Web App      
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 ### 
-This website has been possible because of joint effort of me and Ayushi Sharma (credits below). 
+This <a href="https://cutt.ly/AN-Portfolio/">website</a> has been possible because of joint effort of me and Ayushi Sharma (credits below). 
 If this resume has helped you and you'd like to support our work, feel free to [♥️ Sponsor](https://github.com/sponsors/akhneve) the project 
 
 ## Description
