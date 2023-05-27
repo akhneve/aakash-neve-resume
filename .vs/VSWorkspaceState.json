@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\public",
-    "\\public\\css",
-    "\\public\\images",
-    "\\public\\js",
-    "\\src"
+    "\\public"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
