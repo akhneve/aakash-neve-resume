@@ -161,6 +161,12 @@
         "category": "My Tutorials",
         "image": "Language Translation PDF Thumbnail.png",
         "url": "https://medium.com/@akhneve/language-translation-of-pdf-locally-using-python-4210ddfe338a"
+      },
+      {
+        "title": "Flight Transaction Analysis using SQL",
+        "category": "MSBA Project Showcase",
+        "image": "Flight Analysis Thumbnail.png",
+        "url": "https://drive.google.com/file/d/1VB-uwbyWtBlc_docUxviXNw4xEFNYXC8/view?usp=sharing"
       }
     ]
   },
