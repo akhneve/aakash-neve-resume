@@ -19,7 +19,7 @@ class Footer extends Component {
     </ul>*/}
 
            <ul className="copyright">
-                        <li>&copy; Made by Aakash Neve and Ayushi Sharma</li>
+                        <li>&copy; Made by Aakash Neve</li>
               
            </ul>
 

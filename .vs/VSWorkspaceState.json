@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\public",
+    "\\public\\images\\portfolio",
+    "\\src",
+    "\\src\\Components"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\public\\resumeData.json",
   "PreviewInSolutionExplorer": false
 }
