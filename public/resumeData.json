@@ -77,12 +77,28 @@
     "work": [
       {
         "company": "LinkedIn",
-        "title": "Sales Operations Associate",
+        "title": "Sales Strategy and Operations Associate",
         "years": "August 2023 - Current",
         "description": [
           {
             "id": "point1",
-            "point": "Working with the Global Planning and Performance team for forecasting of LinkedIn's Talent Solutions product portfolio"
+            "point": "Saved ~$30M and 100+ hours of manual effort by designing a SQL logic to automate financial reporting of B2B hiring and learning bundled products"
+          },
+          {
+            "id": "point2",
+            "point": "Boosted cross sell business outcomes for LinkedIn's Learning products world-wide by setting up financial plan, reporting and communicating insights to sales leadership, supporting a $60M target annual achievement"
+          },
+          {
+            "id": "point3",
+            "point": "Achieved a 2% QoQ reduction in controllable churn by setting targets for CSMs, enhancing customer retention"
+          },
+          {
+            "id": "point4",
+            "point": "Led global headcount planning and reconciliation across 6 regions, collaborating with 50+ sales leaders and ensuring accurate alignment for LinkedIn's FY25 financial and operational targets"
+          },
+          {
+            "id": "point5",
+            "point": "Assisted CEO to drive strategic conversations with world leaders in APEC summit resulting in 5+ major renewal contracts worth $120M"
           }
         ]
       },
