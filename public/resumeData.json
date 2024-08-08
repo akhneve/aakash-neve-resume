@@ -17,7 +17,7 @@
       "zip": "98105"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1Pyw3apLiegjvzEY_5WfC97JabvKvHyOG/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1xzs0NV0W-X8UvyhfwhOd50Y7dqXB5m9G/view?usp=drive_link",
     "social": [
 
       {
@@ -37,15 +37,19 @@
         "description": [
           {
             "id": "point1",
-            "point": "Working in the Diversity, Equity and Inclusion sub-committee to ensure all the programs are inclusive of the people coming from diverse backgrounds and promote equity in all human and non-human entities"
+            "point": "Worked in the Diversity, Equity and Inclusion sub-committee to ensure all the programs are inclusive of the people coming from diverse backgrounds and promote equity in all human and non-human entities"
           },
           {
             "id": "point2",
-            "point": "Working part-time as a Program Coordinator with the Center for International Relations & Cultural Leadership Exchange at University of Washington to organize and run end-to-end operations of several large-scale cultural exchange and welcome programs for international undergraduate and graduate students of the university"
+            "point": "Worked part-time as a Program Coordinator with the Center for International Relations & Cultural Leadership Exchange at University of Washington to organize and run end-to-end operations of several large-scale cultural exchange and welcome programs for international undergraduate and graduate students of the university"
           },
           {
             "id": "point3",
-            "point": "Working with Novo-Nordisk in collaboration with Electrical and Computer Engineering Department at University of Washington to make an end-to-end product for data collection and detection of Alzheimer's disease in early stage using patient gate data and track its progression"
+            "point": "Worked with Novo-Nordisk in collaboration with Electrical and Computer Engineering Department at University of Washington to make an end-to-end product for data collection and detection of Alzheimer's disease in early stage using patient gate data and track its progression"
+          },
+          {
+            "id": "point4",
+            "point": "Worked with Calligo in collaboration with Foster School of Business at University of Washington to analyze the flight data to predict flight cancellations and develop targeted customer promotion strategies, assisting clients to reduce cancellations and make marketing decisions"
           }
         ]
       },
@@ -56,18 +60,14 @@
         "description": [
           {
             "id": "point1",
-            "point": "Completed the graduation with a CGPA of 8.69 out of 10"
-          },
-          {
-            "id": "point2",
             "point": "Worked as a Training and Placement (T&P) Coordinator for 2019 batch. As a T&P coordinator, worked closely with company representatives and students for the organisation and management of placement drives on campus."
           },
           {
-            "id": "point3",
+            "id": "point2",
             "point": "Participated in a 10-hour mathematics research-a-thon on \"Optimization of Traffic\" where the vehicle traffic was modeled using differential equations."
           },
           {
-            "id": "point4",
+            "id": "point3",
             "point": "Secured a national finalist position in Datamaze -  a data analytics competition organized by FMS, Delhi amongst premier engineering and management institutions of India."
           }
         ]
