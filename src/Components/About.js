@@ -1,6 +1,32 @@
 import React, { Component } from 'react';
 
 class About extends Component {
+
+
+  componentDidMount() {
+      // Dynamically append the Topmate script
+      const script = document.createElement('script');
+      script.src = "https://topmate-embed.s3.ap-south-1.amazonaws.com/v1/topmate-embed.js";
+      script.setAttribute("user-profile", "https://topmate.io/embed/profile/aakash_neve?theme=008080");
+      script.setAttribute("btn-style", '{"backgroundColor":"#000","color":"#fff","border":"1px solid #000"}');
+      script.setAttribute("embed-version", "v1");
+      script.setAttribute("button-text", "Let's Connect on Topmate");
+      script.setAttribute("position-right", "30px");
+      script.setAttribute("position-bottom", "30px");
+      script.setAttribute("custom-padding", "0px");
+      script.setAttribute("custom-font-size", "16px");
+      script.setAttribute("custom-font-weight", "500");
+      script.setAttribute("custom-width", "200px");
+      script.async = true;
+      script.defer = true;
+
+      // Append the script to the Topmate container div
+      const targetDiv = document.getElementById("topmate-container");
+        if (targetDiv) {
+            targetDiv.appendChild(script);
+        }
+  }
+
   render() {
     if(this.props.data){
       var name = this.props.data.name;
@@ -20,21 +46,8 @@ class About extends Component {
       <div className="row">
          <div className="three columns">
                     {/* }<img className="profile-pic"  src={profilepic_avatar} alt="Aakash Neve Profile Pic" />*/}
-                    <script
-                        src="https://topmate-embed.s3.ap-south-1.amazonaws.com/v1/topmate-embed.js"
-                        user-profile="https://topmate.io/embed/profile/aakash_neve?theme=008080"
-                        btn-style='{"backgroundColor":"#000","color":"#fff","border":"1px solid #000"}'
-                        embed-version="v1"
-                        button-text="Let's Connect on Topmate"
-                        position-right="30px"
-                        position-bottom="30px"
-                        custom-padding="0px"
-                        custom-font-size="16px"
-                        custom-font-weight="500"
-                        custom-width="200px"
-                        async=""
-                        defer=""
-                    ></script>
+                    {/* Topmate embed will mount here */}
+                    <div id="topmate-container"></div>
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
