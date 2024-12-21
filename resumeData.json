@@ -76,111 +76,118 @@
     ],
     "work": [
       {
-        "company": "LinkedIn",
-        "title": "Sales Strategy and Operations Associate",
-        "years": "August 2023 - Current",
+        "company": "T-Mobile",
+        "title": "Business Analysis Manager",
+        "years": "November 2024 - Current",
         "description": [
           {
             "id": "point1",
-            "point": "Saved ~$30M and 100+ hours of manual effort by designing a SQL logic to automate financial reporting of B2B hiring and learning bundled products"
-          },
-          {
-            "id": "point2",
-            "point": "Boosted cross sell business outcomes for LinkedIn's Learning products world-wide by setting up financial plan, reporting and communicating insights to sales leadership, supporting a $60M target annual achievement"
-          },
-          {
-            "id": "point3",
-            "point": "Achieved a 2% QoQ reduction in controllable churn by setting targets for CSMs, enhancing customer retention"
-          },
-          {
-            "id": "point4",
-            "point": "Led global headcount planning and reconciliation across 6 regions, collaborating with 50+ sales leaders and ensuring accurate alignment for LinkedIn's FY25 financial and operational targets"
-          },
-          {
-            "id": "point5",
-            "point": "Assisted CEO to drive strategic conversations with world leaders in APEC summit resulting in 5+ major renewal contracts worth $120M"
+            "point": "Working with Customer Care group to report key financial metrics to the LEadership"
           }
         ]
       },
-      {
-        "company": "ZS Associates",
-        "title": "Decision Analytics Associate",
-        "years": "December 2019 - April 2022",
-        "description": [
           {
-            "id": "point1",
-            "point": "Designed and conducted the biggest bench-marking survey in the US pharmaceutical space for 79 companies and shared the insights on pay benchmarks to senior leadership"
+            "company": "LinkedIn",
+            "title": "Sales Strategy and Operations Associate",
+            "years": "August 2023 - November 2024",
+            "description": [
+              {
+                "id": "point1",
+                "point": "Saved ~$30M and 100+ hours of manual effort by designing a SQL logic to automate financial reporting of B2B hiring and learning bundled products"
+              },
+              {
+                "id": "point2",
+                "point": "Boosted cross sell business outcomes for LinkedIn's Learning products world-wide by setting up financial plan, reporting and communicating insights to sales leadership, supporting a $60M target annual achievement"
+              },
+              {
+                "id": "point3",
+                "point": "Achieved a 2% QoQ reduction in controllable churn by setting targets for CSMs, enhancing customer retention"
+              },
+              {
+                "id": "point4",
+                "point": "Led global headcount planning and reconciliation across 6 regions, collaborating with 50+ sales leaders and ensuring accurate alignment for LinkedIn's FY25 financial and operational targets"
+              }
+            ]
           },
           {
-            "id": "point2",
-            "point": "Strategized and developed a framework that helped the Incentive Compensation leaders to effectively manage the end-to-end sales contests across six business units"
-          },
-          {
-            "id": "point3",
-            "point": "Automated the marketing segmentation of health-care practitioners across geographies by leveraging machine learning techniques such as K-nearest neighbors with ~90% accuracy"
-          },
-          {
-            "id": "point4",
-            "point": "Enhanced the compensation model for 2k+ pharmaceutical sales representatives by creating Excel models and Monte Carlo simulations, saving the budget of more than $0.5 million for every $100 million"
-          },
-          {
-            "id": "point5",
-            "point": "Led the training and on-boarding of associates on live projects and facilitated certification programs for 150+ participants across the globe"
-          }
+            "company": "ZS Associates",
+            "title": "Decision Analytics Associate",
+            "years": "December 2019 - April 2022",
+            "description": [
+              {
+                "id": "point1",
+                "point": "Designed and conducted the biggest bench-marking survey in the US pharmaceutical space for 79 companies and shared the insights on pay benchmarks to senior leadership"
+              },
+              {
+                "id": "point2",
+                "point": "Strategized and developed a framework that helped the Incentive Compensation leaders to effectively manage the end-to-end sales contests across six business units"
+              },
+              {
+                "id": "point3",
+                "point": "Automated the marketing segmentation of health-care practitioners across geographies by leveraging machine learning techniques such as K-nearest neighbors with ~90% accuracy"
+              },
+              {
+                "id": "point4",
+                "point": "Enhanced the compensation model for 2k+ pharmaceutical sales representatives by creating Excel models and Monte Carlo simulations, saving the budget of more than $0.5 million for every $100 million"
+              },
+              {
+                "id": "point5",
+                "point": "Led the training and on-boarding of associates on live projects and facilitated certification programs for 150+ participants across the globe"
+              }
 
-        ]
-      },
-      {
-        "company": "Tredence Analytics",
-        "title": "Business Analyst",
-        "years": "June 2019 - December 2019",
-        "description": [
-          {
-            "id": "point1",
-            "point": "Estimated $275 million worth of combined sales impact of competitors on the world’s largest retailer"
+            ]
           },
           {
-            "id": "point2",
-            "point": "Built a linear regression-based market share driver model on R and a dashboard using Tableau to identify the threat index of a competitor's presence on sales and assist leadership in strategizing counter plans"
+            "company": "Tredence Analytics",
+            "title": "Business Analyst",
+            "years": "June 2019 - December 2019",
+            "description": [
+              {
+                "id": "point1",
+                "point": "Estimated $275 million worth of combined sales impact of competitors on the world’s largest retailer"
+              },
+              {
+                "id": "point2",
+                "point": "Built a linear regression-based market share driver model on R and a dashboard using Tableau to identify the threat index of a competitor's presence on sales and assist leadership in strategizing counter plans"
+              }
+            ]
+          }
+        ],
+        "skills": [
+          {
+            "name": "Python",
+            "level": "75%"
+          },
+          {
+            "name": "R",
+            "level": "70%"
+          },
+          {
+            "name": "Tableau",
+            "level": "80%"
+          },
+          {
+            "name": "SQL",
+            "level": "80%"
+          },
+          {
+            "name": "MS Excel",
+            "level": "95%"
+          },
+          {
+            "name": "VBA",
+            "level": "50%"
+          },
+          {
+            "name": "Statistics",
+            "level": "60%"
+          },
+          {
+            "name": "Machine learning",
+            "level": "50%"
           }
         ]
-      }
-    ],
-    "skills": [
-      {
-        "name": "Python",
-        "level": "75%"
       },
-      {
-        "name": "R",
-        "level": "70%"
-      },
-      {
-        "name": "Tableau",
-        "level": "80%"
-      },
-      {
-        "name": "SQL",
-        "level": "80%"
-      },
-      {
-        "name": "MS Excel",
-        "level": "95%"
-      },
-      {
-        "name": "VBA",
-        "level": "50%"
-      },
-      {
-        "name": "Statistics",
-        "level": "60%"
-      },
-      {
-        "name": "Machine learning",
-        "level": "50%"
-      }
-    ]
-  },
   "portfolio": {
     "projects": [
       {
@@ -212,12 +219,20 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "ABC"
+        "text": "Aakash is very friendly and provided a lot of helpful insights! Appreciate the help!!",
+        "user": "Yunhan Wang"
       },
       {
-        "text": "That Aakash must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "XYZ"
+        "text": "I am really thankful for the practical insights that Aakash shared with me and he is super friendly person to chat with.",
+        "user": "Romario Williams G"
+      },
+      {
+        "text": "I would like to express my sincere gratitude to Aakash for his invaluable career guidance session. I truly appreciated his methodical approach, wherein he provided a comprehensive list of actionable steps to consider before making crucial career decisions. His empathetic understanding of my situation, stemming from his shared background, added significant depth to the session. Aakash's insights have inspired me to consider offering similar sessions in the future to help individuals facing similar challenges.",
+        "user": "Ranjith"
+      },
+      {
+        "text": "My experience connecting with Aakash and getting my resume reviewed was great. It's really inspiring when people like him step up to help the community and job seekers. Aakash thoroughly analyzed my resume and explained the suggested changes clearly. His advice on networking was very helpful. I highly recommend his expertise to anyone looking for career guidance.",
+        "user": "Mohammed Wasim"
       }
     ]
   }
