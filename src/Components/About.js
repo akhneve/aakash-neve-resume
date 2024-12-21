@@ -8,15 +8,13 @@ class About extends Component {
       const script = document.createElement('script');
       script.src = "https://topmate-embed.s3.ap-south-1.amazonaws.com/v1/topmate-embed.js";
       script.setAttribute("user-profile", "https://topmate.io/embed/profile/aakash_neve?theme=008080");
-      script.setAttribute("btn-style", '{"backgroundColor":"#000","color":"#fff","border":"1px solid #000"}');
+      script.setAttribute("btn-style", '{"backgroundColor"#008080","color":"#fff","border":"1px solid #000"}');
       script.setAttribute("embed-version", "v1");
-      script.setAttribute("button-text", "Let's Connect on Topmate");
-      script.setAttribute("position-right", "30px");
-      script.setAttribute("position-bottom", "30px");
+      script.setAttribute("button-text", "Connect on Topmate");
       script.setAttribute("custom-padding", "0px");
       script.setAttribute("custom-font-size", "16px");
       script.setAttribute("custom-font-weight", "500");
-      script.setAttribute("custom-width", "200px");
+      script.setAttribute("custom-width", "500px");
       script.async = true;
       script.defer = true;
 
@@ -46,8 +44,6 @@ class About extends Component {
       <div className="row">
          <div className="three columns">
                     {/* }<img className="profile-pic"  src={profilepic_avatar} alt="Aakash Neve Profile Pic" />*/}
-                    {/* Topmate embed will mount here */}
-                    <div id="topmate-container"></div>
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -70,6 +66,7 @@ class About extends Component {
                      <a href={resumeDownload}  target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
+               <div id="topmate-container"></div>
             </div>
          </div>
             </div>
