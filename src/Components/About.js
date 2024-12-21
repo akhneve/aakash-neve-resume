@@ -66,7 +66,17 @@ class About extends Component {
                      <a href={resumeDownload}  target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
-               <div id="topmate-container"></div>
+               <div className = "Topmate"> 
+                            <p>
+                                <a
+                                    onClick={() => window.open("https://topmate.io/embed/profile/aakash_neve?theme=008080", "TopmatePopup", "width=600,height=600,resizable,scrollbars")}
+                                    className="button"
+                                    style={{ cursor: "pointer" }}
+                                >
+                                    <i className="fa fa-link" style={{ marginRight: "8px" }}></i>Let's Connect on Topmate
+                                </a>
+                            </p>
+                </div>
             </div>
          </div>
             </div>
