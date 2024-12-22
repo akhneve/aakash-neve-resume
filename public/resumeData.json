@@ -21,16 +21,9 @@
     "social": [
 
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/aakash-neve/"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/akhneve"
-      },
-      {
-        "name": "medium",
-        "url": "https://medium.com/@akhneve"
+        "li_url": "https://www.linkedin.com/in/aakash-neve/",
+        "gh_url": "https://github.com/akhneve",
+        "med_url": "https://medium.com/@akhneve"
       }
     ]
   },

@@ -18,9 +18,11 @@ class Header extends Component {
 
         var urls = this.props.data.social;
 
-        li_url = urls[0].url;
-        gh_url = urls[1].url;
-        med_url = urls[2].url;
+        console.log(urls)
+
+        li_url = this.props.data.social.li_url;
+        gh_url = this.props.data.social.gh_url;
+        med_url = this.props.data.social.med_url;
 
        // var networks= this.props.data.social.map(function(network){
        //     return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
