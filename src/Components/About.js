@@ -82,16 +82,17 @@ class About extends Component {
 
                                         const iframe = document.createElement("iframe");
                                         iframe.src = "https://topmate.io/embed/profile/aakash_neve?theme=008080";
-                                        iframe.style.width = "80%";
-                                        iframe.style.height = "80%";
+                                        iframe.style.width = "90%";
+                                        iframe.style.height = "90%";
                                         iframe.style.border = "none";
 
                                         const closeButton = document.createElement("button");
-                                        closeButton.innerText = "×";
+                                        closeButton.innerHTML = "&times;";
                                         closeButton.style.position = "absolute";
                                         closeButton.style.top = "20px";
                                         closeButton.style.right = "20px";
                                         closeButton.style.background = "#008080";
+                                        closeButton.style.color = "#fff";
                                         closeButton.style.border = "none";
                                         closeButton.style.fontSize = "24px";
                                         closeButton.style.cursor = "pointer";
