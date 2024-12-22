@@ -138,10 +138,10 @@ class Header extends Component {
             <hr />
             <ul className="social">
                {/* {networks} */}
-               <li key="linkedin"><a href={li_url} className="Link_head" target="_blank"><BsLinkedin /></a></li>
+                        {/* <li key="linkedin"><a href={li_url} className="Link_head" target="_blank"><BsLinkedin /></a></li>
                <li key="github"><a href={gh_url} className="Link_head" target="_blank"><BsMedium /></a></li>
                <li key="medium"><a href={med_url} className="Link_head" target="_blank"><BsGithub /></a></li>
-
+                        */}
             </ul>
          </div>
       </div>
