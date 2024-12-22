@@ -141,8 +141,8 @@ class Header extends Component {
             <ul className="social">
                {/* {networks} */}
                         <li key="linkedin"><a href="https://www.linkedin.com/in/aakash-neve/" className="Link_head" target="_blank"><BsLinkedin /></a></li>
-                        <li key="github"><a href="https://github.com/akhneve" className="Link_head" target="_blank"><BsMedium /></a></li>
-               <li key="medium"><a href="https://medium.com/@akhneve" className="Link_head" target="_blank"><BsGithub /></a></li>
+                        <li key="github"><a href="https://github.com/akhneve" className="Link_head" target="_blank"><BsGithub /></a></li>
+                        <li key="medium"><a href="https://medium.com/@akhneve" className="Link_head" target="_blank"><BsMedium /></a></li>
                        
             </ul>
          </div>
