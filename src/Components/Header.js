@@ -21,6 +21,8 @@ class Header extends Component {
         console.log(urls);
 
         const { li_url, gh_url, med_url } = urls;
+        console.log(li_url, gh_url, med_url); 
+
 
        // var networks= this.props.data.social.map(function(network){
        //     return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
@@ -138,10 +140,10 @@ class Header extends Component {
             <hr />
             <ul className="social">
                {/* {networks} */}
-                        {/* <li key="linkedin"><a href={li_url} className="Link_head" target="_blank"><BsLinkedin /></a></li>
-               <li key="github"><a href={gh_url} className="Link_head" target="_blank"><BsMedium /></a></li>
-               <li key="medium"><a href={med_url} className="Link_head" target="_blank"><BsGithub /></a></li>
-                        */}
+                        <li key="linkedin"><a href="https://www.linkedin.com/in/aakash-neve/" className="Link_head" target="_blank"><BsLinkedin /></a></li>
+                        <li key="github"><a href="https://github.com/akhneve" className="Link_head" target="_blank"><BsMedium /></a></li>
+               <li key="medium"><a href="https://medium.com/@akhneve" className="Link_head" target="_blank"><BsGithub /></a></li>
+                       
             </ul>
          </div>
       </div>
