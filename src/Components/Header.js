@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Particles from "react-tsparticles";
 import Typewriter from 'typewriter-effect';
 import { BsLinkedin } from "react-icons/bs";
+import { BsMedium } from "react-icons/bs";
+import { BsGithub } from "react-icons/bs";
 
 class Header extends Component {
   render() {
@@ -12,11 +14,18 @@ class Header extends Component {
         var des2 = description[1];
         var des3 = description[2];
 
-        var profilepic = $(location).attr('href')+"/images/"+this.props.data.image;
-      var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
-        //<li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })
+        var profilepic = $(location).attr('href') + "/images/" + this.props.data.image;
+
+        var urls = this.props.data.social.url;
+
+        li_url = urls[0];
+        gh_url = urls[1];
+        med_url = urls[2];
+
+       // var networks= this.props.data.social.map(function(network){
+       //     return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
+            //<li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+      //})
     }
 
     return (
@@ -128,7 +137,11 @@ class Header extends Component {
 
             <hr />
             <ul className="social">
-               {networks}
+               {/* {networks} */}
+               <li key="linkedin"><a href={li_url} className="Link_head" target="_blank"><BsLinkedin /></a></li>
+               <li key="github"><a href={gh_url} className="Link_head" target="_blank"><BsMedium /></a></li>
+               <li key="medium"><a href={med_url} className="Link_head" target="_blank"><BsGithub /></a></li>
+
             </ul>
          </div>
       </div>

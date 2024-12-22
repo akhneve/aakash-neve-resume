@@ -22,8 +22,15 @@
 
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/aakash-neve/",
-        "className": "fa fa-linkedin"
+        "url": "https://www.linkedin.com/in/aakash-neve/"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akhneve"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@akhneve"
       }
     ]
   },
