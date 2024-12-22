@@ -16,11 +16,11 @@ class Header extends Component {
 
         var profilepic = $(location).attr('href') + "/images/" + this.props.data.image;
 
-        var urls = this.props.data.social.url;
+        var urls = this.props.data.social;
 
-        li_url = urls[0];
-        gh_url = urls[1];
-        med_url = urls[2];
+        li_url = urls[0].url;
+        gh_url = urls[1].url;
+        med_url = urls[2].url;
 
        // var networks= this.props.data.social.map(function(network){
        //     return <li key={network.name}><a href={network.url} className = "Link_head" target="_blank"><BsLinkedin /></a></li>
