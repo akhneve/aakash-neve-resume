@@ -91,7 +91,7 @@ class About extends Component {
                                         closeButton.style.position = "absolute";
                                         closeButton.style.top = "20px";
                                         closeButton.style.right = "20px";
-                                        closeButton.style.background = "#fff";
+                                        closeButton.style.background = "#008080";
                                         closeButton.style.border = "none";
                                         closeButton.style.fontSize = "24px";
                                         closeButton.style.cursor = "pointer";
@@ -106,7 +106,7 @@ class About extends Component {
                                     className="button"
                                     style={{ cursor: "pointer" }}
                                 >
-                                    <i className="fa fa-calandar" style={{ marginRight: "8px" }}></i>Schedule a call
+                                    <i className="fa fa-calendar" style={{ marginRight: "8px" }}></i>Schedule a call
                                 </a>
                             </p>
 
