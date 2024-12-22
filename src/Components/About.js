@@ -65,15 +65,50 @@ class About extends Component {
                   <p>
                      <a href={resumeDownload}  target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-                  <p>
-                     <a
-                        onClick={() => window.open("https://topmate.io/embed/profile/aakash_neve?theme=008080", "TopmatePopup", "width=600,height=600,resizable,scrollbars")}
-                        className="button"
-                        style={{ cursor: "pointer" }}
-                     >
-                     <i className="fa fa-calendar" style={{ marginRight: "8px" }}></i>Book some time on Topmate
-                     </a>
-                  </p>
+                            <p>
+                                <a
+                                    onClick={() => {
+                                        const modal = document.createElement("div");
+                                        modal.style.position = "fixed";
+                                        modal.style.top = "0";
+                                        modal.style.left = "0";
+                                        modal.style.width = "100%";
+                                        modal.style.height = "100%";
+                                        modal.style.backgroundColor = "rgba(0,0,0,0.8)";
+                                        modal.style.display = "flex";
+                                        modal.style.justifyContent = "center";
+                                        modal.style.alignItems = "center";
+                                        modal.style.zIndex = "1000";
+
+                                        const iframe = document.createElement("iframe");
+                                        iframe.src = "https://topmate.io/embed/profile/aakash_neve?theme=008080";
+                                        iframe.style.width = "80%";
+                                        iframe.style.height = "80%";
+                                        iframe.style.border = "none";
+
+                                        const closeButton = document.createElement("button");
+                                        closeButton.innerText = "×";
+                                        closeButton.style.position = "absolute";
+                                        closeButton.style.top = "20px";
+                                        closeButton.style.right = "20px";
+                                        closeButton.style.background = "#fff";
+                                        closeButton.style.border = "none";
+                                        closeButton.style.fontSize = "24px";
+                                        closeButton.style.cursor = "pointer";
+                                        closeButton.addEventListener("click", () => {
+                                            document.body.removeChild(modal);
+                                        });
+
+                                        modal.appendChild(iframe);
+                                        modal.appendChild(closeButton);
+                                        document.body.appendChild(modal);
+                                    }}
+                                    className="button"
+                                    style={{ cursor: "pointer" }}
+                                >
+                                    <i className="fa fa-calandar" style={{ marginRight: "8px" }}></i>Schedule a call
+                                </a>
+                            </p>
 
                </div>
             </div>
