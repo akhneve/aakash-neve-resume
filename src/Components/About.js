@@ -65,18 +65,17 @@ class About extends Component {
                   <p>
                      <a href={resumeDownload}  target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
+                  <p>
+                     <a
+                        onClick={() => window.open("https://topmate.io/embed/profile/aakash_neve?theme=008080", "TopmatePopup", "width=600,height=600,resizable,scrollbars")}
+                        className="button"
+                        style={{ cursor: "pointer" }}
+                     >
+                     <i className="fa fa-calendar" style={{ marginRight: "8px" }}></i>Book some time on Topmate
+                     </a>
+                  </p>
+
                </div>
-               <div className = "Topmate"> 
-                            <p>
-                                <a
-                                    onClick={() => window.open("https://topmate.io/embed/profile/aakash_neve?theme=008080", "TopmatePopup", "width=600,height=600,resizable,scrollbars")}
-                                    className="button"
-                                    style={{ cursor: "pointer" }}
-                                >
-                                    <i className="fa fa-calendar-check-o" style={{ marginRight: "8px" }}></i>Book some time on Topmate
-                                </a>
-                            </p>
-                </div>
             </div>
          </div>
             </div>
