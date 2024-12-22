@@ -18,14 +18,12 @@
     },
     "website": "",
     "resumedownload": "https://drive.google.com/file/d/1xzs0NV0W-X8UvyhfwhOd50Y7dqXB5m9G/view?usp=drive_link",
-    "social": [
-
+    "social":
       {
         "li_url": "https://www.linkedin.com/in/aakash-neve/",
         "gh_url": "https://github.com/akhneve",
         "med_url": "https://medium.com/@akhneve"
       }
-    ]
   },
   "resume": {
     "skillmessage": "My work as a Decision/ Business Analyst has trained me to leverage following tools and technology to solve the business problems and conduct the analytical operations. ",

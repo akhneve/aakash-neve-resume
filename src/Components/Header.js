@@ -18,7 +18,7 @@ class Header extends Component {
 
         var urls = this.props.data.social;
 
-        console.log(urls)
+        console.log(urls);
 
         li_url = this.props.data.social.li_url;
         gh_url = this.props.data.social.gh_url;
