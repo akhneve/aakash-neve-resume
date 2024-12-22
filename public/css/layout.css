@@ -319,6 +319,8 @@ ul#nav li a:active { background-color: transparent !important; }
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
+	width: 100%;
+	max-width: 230px;
 	margin-top: 6px;
 	background: #008080;
 }
